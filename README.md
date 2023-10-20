@@ -7,13 +7,13 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)//dint do that yet
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)//miss a link here to
+- [Author](#author)
 
 ## Overview
 
@@ -37,8 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Interactive-rating](https://interactive-rating-frontendmentorio.netlify.app/)
 
 ## My process
 
@@ -127,5 +126,5 @@ I would love to learn more about CSS and Javascript.
 
 ## Author
 
-- Website - [Thodoris Diamantidis](https://www.your-site.com)// ddnt change that yet
+- Website - [Thodoris Diamantidis](https://thodoris-diamantidis-portfolio.netlify.app/)
 - Frontend Mentor - [@Thodoris-Diamantidis](https://www.frontendmentor.io/profile/Thodoris-Diamantidis)
