@@ -42,13 +42,14 @@ Users should be able to:
 ## My process
 
 My proccess for this project was straight forward:
--First step was to define my html structure and make a starter CSS file so it will be easier later on to style the whole project
--Started of with adding a CSS reseter from (https://www.joshwcomeau.com/css/custom-css-reset/)
--Added some Custom variables to help me in this project(guided by the style-guide.md)
--Second step was to start styling the Rating State
--Started styling Rating State when i was happy with it i went to js
--With Javascript i tried to make the 1 - 5 rating interactive while also keepeing track of which rating is selected(thats for the Thankyou state)
--Third step was to style the Thankyou State
+
+- First step was to define my html structure and make a starter CSS file so it will be easier later on to style the whole project
+- Started of with adding a CSS reseter from (https://www.joshwcomeau.com/css/custom-css-reset/)
+- Added some Custom variables to help me in this project(guided by the style-guide.md)
+- Second step was to start styling the Rating State
+- Started styling Rating State when i was happy with it i went to js
+- With Javascript i tried to make the 1 - 5 rating interactive while also keepeing track of which rating is selected(thats for the Thankyou state)
+- Third step was to style the Thankyou State
 
 ### Built with
 
